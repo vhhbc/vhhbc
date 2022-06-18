@@ -174,7 +174,7 @@ h1,h2,h3,h4,h5,h6{
   align-items: center;
 }
 #main-nav .logo{
-  width: 180px;
+  width: 120px;
 }
 #main-nav ul{
   justify-self: end;
@@ -261,7 +261,7 @@ h1,h2,h3,h4,h5,h6{
   color: #fff;
 }
 #main-footer img{
-  width: 150px;
+  width: 100px;
 }
 #main-footer a{
   color: #fff;
